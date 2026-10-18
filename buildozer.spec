@@ -5,7 +5,7 @@ package.domain = org.snake
 source.dir = .
 source.include_exts = py,png,jpg,ttf,wav,json
 version = 1.0
-requirements = python3,kivy==2.3.0,arabic-reshaper,plyer,pyjnius
+requirements = python3,kivy==2.3.1,arabic-reshaper,plyer,pyjnius
 orientation = portrait
 fullscreen = 0
 icon.filename = %(source.dir)s/icon.png
